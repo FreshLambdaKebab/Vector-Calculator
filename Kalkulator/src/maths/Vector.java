@@ -51,7 +51,13 @@ public class Vector {
 	}
 	
 	//TODO:implement vector addition,subtraction.
-	
+	/*public Vector Addition(Vector v1,Vector v2)
+	{
+		Vector resultant;
+		//resultant = v1 + v2;
+		
+		//return resultant;
+	}*/
 	
 	//----------------------------------------------------------------------------------------------RESTRICTED--
 	/*public Vector cross(Vector vec1,Vector vec2){  TODO:create this for when 3D implemented
