@@ -49,7 +49,7 @@ public class Vector {
 	public void printVector(String name){
 		System.out.println(name + "(" + getX() + "," + getY() + ")");
 	}
-	
+	 
 	//TODO:implement vector addition,subtraction.
 	/*public Vector Addition(Vector v1,Vector v2)
 	{
